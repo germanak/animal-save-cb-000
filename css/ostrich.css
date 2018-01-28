@@ -14,3 +14,9 @@ html {
     top: -50px;
   }
 }
+
+@media (max-width: 390px) {
+  #ostrich {
+    top: 50px;
+  }
+}
